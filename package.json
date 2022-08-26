@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gojs": "^2.2.12",
+    "gojs-react": "^1.1.1"
+  }
+}
